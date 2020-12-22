@@ -4,4 +4,4 @@ services:
   sysfoo:
     image: meetkjain83/sysfoo:v2
     ports:
-      - 8888:8080
+      - 8875:8080
